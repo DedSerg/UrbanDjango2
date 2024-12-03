@@ -1,13 +1,12 @@
 from django.shortcuts import render
 from django.views.generic import TemplateView
 
-
-class platform_game(TemplateView):
+class Platform_game(TemplateView):
     template_name = 'platform.html'
 
 
 
-class cart_game(TemplateView):
+class Cart_game(TemplateView):
     template_name = 'cart.html'
 
 def menu_game(request):
