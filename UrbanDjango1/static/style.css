@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+
+body {
+      font-family: 'Times New', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      font-style: italic;
+      background-color: #ADD8E6;
+}
+
+h1 {
+    font-size: 8px;
+=======
 
 body {
       font-family: 'Times New', sans-serif;
@@ -8,4 +21,5 @@ body {
 
 h1 {
     text-align: center;
+>>>>>>> 69/main
 }
